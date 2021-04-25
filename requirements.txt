@@ -9,3 +9,4 @@ lxml==4.4.1
 textblob==0.15.3
 nltk==3.4.5
 requests==2.22.0
+python==3.6.12
